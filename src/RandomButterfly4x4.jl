@@ -1,6 +1,8 @@
 module RandomButterfly4x4
     
 	#=============== Imports =============================#
+	import Pkg; Pkg.instantiate()
+	
 	#using JLD2
 	#using Plots
 	using Random
