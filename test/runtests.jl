@@ -3,4 +3,5 @@ using Test
 
 @testset "RandomButterfly4x4.jl" begin
     # Write your tests here.
+	@test true
 end
